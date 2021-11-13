@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormOdevii", "FormOdevii\FormOdevii.csproj", "{1FEC4972-FAB3-4946-A2F4-F17305A8DEAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FEC4972-FAB3-4946-A2F4-F17305A8DEAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FEC4972-FAB3-4946-A2F4-F17305A8DEAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FEC4972-FAB3-4946-A2F4-F17305A8DEAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FEC4972-FAB3-4946-A2F4-F17305A8DEAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9E1C764-98DB-4E04-ACB6-D455C6E2A463}
+	EndGlobalSection
+EndGlobal
